@@ -223,6 +223,8 @@ footer {
     padding: 20px;
 }
 
+div#map {min-height: 360px;}
+
 /* ----------------------------------------Three Reasons */
 
 .three-reasons-icon {
